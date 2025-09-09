@@ -1,0 +1,10 @@
+P001;Producto1;4268
+P002;Producto2;5658
+P003;Producto3;1759
+P004;Producto4;4943
+P005;Producto5;1928
+P006;Producto6;2731
+P007;Producto7;2838
+P008;Producto8;2093
+P009;Producto9;3091
+P010;Producto10;2700

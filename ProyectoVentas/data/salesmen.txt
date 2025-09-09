@@ -1,0 +1,5 @@
+TI;1001;Vendedor1;Apellido1
+CC;1002;Vendedor2;Apellido2
+TI;1003;Vendedor3;Apellido3
+CC;1004;Vendedor4;Apellido4
+TI;1005;Vendedor5;Apellido5
