@@ -1,0 +1,52 @@
+Conclusión
+
+Durante el desarrollo de este proyecto se diseñó y programó una aplicación en Java
+capaz de procesar información de ventas y generar automáticamente dos reportes en
+formato CSV: uno con el resumen de ventas por vendedor y otro con el detalle de
+productos vendidos ordenados por cantidad. Este trabajo permitió aplicar
+conocimientos de lectura y escritura de archivos, manejo de estructuras de datos,
+ciclos, y organización modular del código mediante métodos auxiliares.
+
+Resumen de lo aprendido
+
+A lo largo del proceso se comprendió cómo estructurar un programa orientado a la
+automatización de tareas repetitivas, en este caso la generación de reportes. Se
+aprendió a utilizar las clases FileReader, BufferedReader, FileWriter y
+BufferedWriter para la manipulación eficiente de archivos de texto. Además, se
+reforzaron conceptos fundamentales como el uso de colecciones en Java (Map, List,
+HashMap, ArrayList), la gestión de excepciones mediante bloques try-catch, y la
+importancia de diseñar código legible, modular y con manejo de errores. También se
+afianzó la comprensión del flujo lógico de un programa, desde la lectura de los datos
+base hasta la creación de salidas procesadas de manera ordenada y clara.
+
+Aplicaciones profesionales
+
+El conocimiento adquirido en este proyecto tiene aplicaciones directas en el ámbito
+profesional, especialmente en áreas como análisis de datos, desarrollo de software
+empresarial y automatización de procesos administrativos. La capacidad de crear
+programas que lean información de múltiples fuentes procese los datos y generen
+reportes útiles es una habilidad muy valorada en empresas que manejan grandes
+volúmenes de información, como compañías comerciales, logísticas o financieras.
+Además, el manejo de estructuras de datos y la lógica aplicada pueden extenderse a
+proyectos de inteligencia de negocios, sistemas de inventario o plataformas de gestión
+de ventas.
+
+Dificultades enfrentadas
+
+Durante el desarrollo se presentaron diversas dificultades, especialmente
+relacionadas con la lectura y validación de archivos. Uno de los retos principales fue
+evitar errores al convertir valores numéricos a partir de texto y garantizar que el formato
+de los archivos fuera correcto. También fue un desafío integrar adecuadamente la
+información entre productos, vendedores y ventas, asegurando que los cálculos de
+totales y las ordenaciones descendentes se realizaran de forma precisa. Superar estos
+obstáculos permitió adquirir una mejor comprensión del manejo de errores, la
+depuración del código y la necesidad de verificar cada paso del flujo de datos.
+
+Conclusión general
+
+El proyecto no solo permitió consolidar conocimientos técnicos y manipulación de
+archivos, sino también desarrollar habilidades de análisis lógico, resolución de
+problemas y organización del código. La experiencia adquirida constituye una base
+sólida para enfrentar proyectos más complejos en el futuro, en los cuales se requiera
+integrar múltiples fuentes de información, aplicar lógica de negocio y generar reportes
+automatizados de manera eficiente.
